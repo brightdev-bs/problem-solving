@@ -2,7 +2,7 @@ package basic;
 
 import java.util.Scanner;
 
-public class Q2239 {
+public class Q2293 {
 
     static int[] dy;
 
